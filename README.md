@@ -9,7 +9,15 @@
 
 ## 数据结构
 1. 顺序表 
-  + [静态顺序表](数据结构/static-sequence-list.c)
-  + [动态顺序表](数据结构/dynamic-sequence-list.c)
-2. [单链表](数据结构/single-chain-list.c)
-3. [双链表](数据结构/double-chain-list.c)
+  + [静态顺序表](数据结构/1.static-sequence-list.c)
+  + [动态顺序表](数据结构/2.dynamic-sequence-list.c)
+2. 链表
+  + [单链表](数据结构/3.single-chain-list.c)
+  + [双链表](数据结构/4.double-chain-list.c)
+  + [循环单链表](数据结构/5.cycle-single-chain.c)
+  + [循环双链表](数据结构/6.cycle-double-chain-list.c)
+3. 栈
+  + [顺序栈](数据结构/7.sequence-stack.c)
+  + [单链栈](数据结构/8.single-chain-stack.c)
+4. 队列
+  + [顺序队列](数据结构/9.static-sequence-queue.c)

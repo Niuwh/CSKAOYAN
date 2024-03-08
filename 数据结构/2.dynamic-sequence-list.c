@@ -1,3 +1,4 @@
+// 动态顺序表
 #include <stdio.h>
 #include <stdbool.h>  // 存放bool类型
 #include <stdlib.h>   // 存放malloc函数

@@ -1,3 +1,4 @@
+// 静态顺序表
 #include <stdio.h>
 #include <stdbool.h>
 
