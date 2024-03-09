@@ -21,3 +21,6 @@
   + [单链栈](数据结构/8.single-chain-stack.c)
 4. 队列
   + [顺序队列](数据结构/9.static-sequence-queue.c)
+  + [链式队列](数据结构/10.chain-queue.c)
+5. 其他
+  + [IDE括号匹配算法栈的实现](数据结构/11.ide-bracket-stack.c)
